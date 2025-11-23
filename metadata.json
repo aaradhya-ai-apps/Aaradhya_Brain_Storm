@@ -1,0 +1,5 @@
+{
+  "name": "Aaradhya Brain Storm",
+  "description": "An advanced memory and quiz game powered by Gemini 2.5 Flash. Generates concept pairs and questions from uploaded PDFs.",
+  "requestFramePermissions": []
+}
